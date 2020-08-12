@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910565462001",
+    "firebase_url": "https://raffle-app-751d0.firebaseio.com",
+    "project_id": "raffle-app-751d0",
+    "storage_bucket": "raffle-app-751d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910565462001:android:7d0c31654f5576fa07fe50",
+        "android_client_info": {
+          "package_name": "com.titef.raffle_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910565462001-k2tup09ddhjfdi62hrglcs5i0bgjmk71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOsmBqEHo1Ft8MQbp_3kVs9zbMY3-sq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910565462001-k2tup09ddhjfdi62hrglcs5i0bgjmk71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910565462001-9vk5rt8rlecqbdaidqjb1msjh27ahorf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.titef.raffleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
